@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<embed src="https://wakatime.com/share/@edisons/a337e25d-d262-497f-ba30-df63eab5ec55.svg"></embed>
+
+
+![alt text](https://wakatime.com/share/@edisons/a337e25d-d262-497f-ba30-df63eab5ec55.svg?source=https://wakatime.com/share/@edisons/a337e25d-d262-497f-ba30-df63eab5ec55.svg)
 <!--
 **edisonqu/edisonqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
